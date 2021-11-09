@@ -1,8 +1,11 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## Emphasis
+**Bold text**
+__Bold text__
+*Italic text*
+_italic text_
+~~strikethrough~~
 
-## Horizontal Rules
+## Blockquotes
+> Blockquote...
+>> ...by using something...
+>>> ...or something else...
