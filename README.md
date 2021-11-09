@@ -5,4 +5,4 @@
 >>>> And extra :)
 
 ## Images
-![Minion](https://octodex.github.com/images/minion.png)
+![Minions](https://octodex.github.com/images/minion.png)
