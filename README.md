@@ -3,3 +3,6 @@
 >> ...by using something...
 >>> ...or something else...
 >>>> And extra :)
+
+## Images
+![Minion](https://octodex.github.com/images/minion.png)
